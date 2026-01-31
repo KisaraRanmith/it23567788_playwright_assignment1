@@ -1,9 +1,9 @@
 ## Playwright Test Automation — SwiftTranslator (Singlish → Sinhala)
 ## 🧑‍🎓 Student Information
 
-Name: RANMITH G A K
-Registration Number: IT23567788
-Assignment: IT3040 – ITPM Assignment 1
+Name: RANMITH G A K                         
+Registration Number: IT23567788                            
+Assignment: IT3040 – ITPM Assignment 1              
 
 
 ## 📌 Project Description
@@ -85,18 +85,18 @@ ITPM-Assignment/
 ```
 ## 🧪 Test Categories
 
-✅ Positive Functional Tests: 24 cases
-❌ Negative Functional Tests: 10 cases
+✅ Positive Functional Tests: 24 cases        
+❌ Negative Functional Tests: 10 cases           
 🎨 UI Test Cases: 1–2 focused scenarios (real‑time update, clear behavior)
 Total: 35+ automated checks
 
 ## 🔍 What’s Covered
 
-Daily language usage (simple/compound/complex)
-Interrogative & imperative forms
-Tense variations (past/present/future)
-Mixed language (Singlish + English terms/brands/abbreviations)
-Punctuation, numbers, dates, currency, units
-Formatting (multiple spaces, line breaks, long paragraphs)
-UI behavior (real‑time output updates, clear/reset behavior)
-Robustness against typos/slang/unsupported symbols
+: Daily language usage (simple/compound/complex)      
+: Interrogative & imperative forms      
+: Tense variations (past/present/future)         
+: Mixed language (Singlish + English terms/brands/abbreviations)     
+: Punctuation, numbers, dates, currency, units       
+: Formatting (multiple spaces, line breaks, long paragraphs)       
+: UI behavior (real‑time output updates, clear/reset behavior)         
+: Robustness against typos/slang/unsupported symbols     
